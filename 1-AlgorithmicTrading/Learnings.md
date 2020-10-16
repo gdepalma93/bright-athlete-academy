@@ -22,12 +22,8 @@
 [Evolutionary Strategy Baysian Agent](https://github.com/huseinzol05/Stock-Prediction-Models/blob/master/free-agent/evolution-strategy-bayesian-agent.ipynb)    
 
 
-
-
 ## Performance Tracking
 [expectancy](https://www.learningmarkets.com/determining-expectancy-in-your-trading/)  
-
-
 
 
 
